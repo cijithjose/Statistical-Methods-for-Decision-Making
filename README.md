@@ -7,6 +7,9 @@ The project involved drawing inferences from 3 case studies, namely - Wholesale 
 
 # Skills & Tools Covered
 1)Descriptive Statistics
-                                               2)Probability
+
+2)Probability
+
 3)Estimation
+
 4)Hypothesis Testing
